@@ -33,12 +33,4 @@ Here are some projects that highlight my current skills:
 * **[SQL Projects](https://github.com/margarytaz/SQL-projects)**
     * A collection of SQL mini-projects showcasing database schema design (DDL) and data extraction/cleaning techniques (DQL) for different analytical scenarios.
     * *Skills:* SQL (DDL, DQL), Database Design, Data Cleaning, BigQuery.
-
-### 🤝 Let's Connect!
-
-I'm always open to connecting with fellow data enthusiasts, mentors, and professionals. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
-<!-- Remember to replace YOUR_LINKEDIN_PROFILE_URL with your actual LinkedIn profile URL -->
-
 ---
