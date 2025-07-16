@@ -3,7 +3,6 @@
   <p>Passionate about data science and building analytical solutions for business.</p>
 </div>
 
----
 
 ### 🚀 About Me
 
