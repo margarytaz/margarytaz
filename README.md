@@ -21,6 +21,10 @@ I'm currently improving my skills in:
 
 Here are some projects that highlight my current skills:
 
+* **[Power BI Dashboard Project](https://github.com/margarytaz/Power-BI)**
+  * A project presenting a coffee shop sales analysis and data visualization in Power BI Desktop.
+  * *Skills:* Power BI, Data Analysis, Data Visualization.
+
 * **[LinkedIn Post Analyzer](https://github.com/margarytaz/linkedin-post-analyser)**
     * A Python-based tool leveraging the OpenAI API to analyze and improve LinkedIn post content, providing structured feedback and enhanced versions.
     * *Skills:* Python, API Integration, Text Analysis, Data Structuring.
