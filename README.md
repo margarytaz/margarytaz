@@ -19,7 +19,9 @@ I'm currently improving my skills in:
 
 ### 🌟 Featured Projects
 
-Here are some projects that highlight my current skills:
+Here are some of the recent projects:
+
+
 
 * **[Power BI Dashboard Project](https://github.com/margarytaz/Power-BI)**
   * A project presenting a coffee shop sales analysis and data visualization in Power BI Desktop.
