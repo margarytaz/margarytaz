@@ -6,16 +6,9 @@
 
 ### 🚀 About Me
 
-I'm a data enthusiast with a diverse background, currently transitioning into the exciting world of Data Science through dedicated online learning. My academic background includes **fashion and management studies (with a focus on sustainable fashion)**.
+I'm a data enthusiast with a diverse background, currently transitioning into the exciting world of Data Science through dedicated online learning. My academic background includes Business Management and Fashion studies.
 
-My professional experience in **e-commerce and B2B environments** has further solidified my conviction in the transformative power of data. I've seen firsthand how competent analytics drives business value, optimizes operations, and enhances decision-making. This unique blend has equipped me with a strong understanding of global markets, supply chains, and consumer behavior, and I've seen firsthand how competent analytics drives business value.
-
-I'm currently improving my skills in:
-* **Data Analysis & Visualization:** Extracting meaningful patterns and presenting them clearly.
-* **Statistical Analysis:** Applying statistical methods to test hypotheses and draw sound conclusions.
-* **Data Cleaning & Preparation:** Ensuring data quality and readiness for any analytical task.
-* **SQL & Database Management:** Designing schemas and performing data manipulation in BigQuery.
-* **Python Programming:** Developing functional scripts and analytical notebooks.
+My professional experience in e-commerce and B2B environments has further solidified my conviction in the transformative power of data. I've seen firsthand how competent analytics drives business value, optimizes operations, and enhances decision-making.
 
 ### 🌟 Featured Projects
 
@@ -40,3 +33,10 @@ Here are some of the recent projects:
 * **[SQL Projects](https://github.com/margarytaz/SQL-projects)**
     * A collection of SQL mini-projects showcasing database schema design (DDL) and data extraction/cleaning techniques (DQL) for different analytical scenarios.
     * *Skills:* SQL, Database Design, Data Cleaning, BigQuery.
+ 
+I continue to improve my expertise in:
+* **Data Analysis & Visualization:** Extracting meaningful patterns and presenting them clearly.
+* **Statistical Analysis:** Applying statistical methods to test hypotheses and draw sound conclusions.
+* **Data Cleaning & Preparation:** Ensuring data quality and readiness for any analytical task.
+* **SQL & Database Management:** Designing schemas and performing data manipulation in BigQuery.
+* **Python Programming:** Developing functional scripts, applying popular libraries.
