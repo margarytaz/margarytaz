@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello there, I'm Margaryta! 👋✨</h1>
+  <h1>Hi, I'm Margaryta! 👋✨</h1>
   <p>Passionate about data science and building analytical solutions for business.</p>
 </div>
 
@@ -21,7 +21,9 @@ I'm currently improving my skills in:
 
 Here are some of the recent projects:
 
-
+* **[Cohort Analysis Project](https://github.com/margarytaz/Cohort_Analysis)**
+  * A comperenhise analysis of sales data by cohorts, applying data cleaning, manipulation and visualization with SQL, Python and Tableau.
+  * *Skills:* Python, SQL, Tableau, Data Analysis, Data Visualization.
 
 * **[Power BI Dashboard Project](https://github.com/margarytaz/Power-BI)**
   * A project presenting a coffee shop sales analysis and data visualization in Power BI Desktop.
