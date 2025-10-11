@@ -14,6 +14,10 @@ My professional experience in e-commerce and B2B environments has further solidi
 
 Here are some of the recent projects:
 
+* **[Exploratory Data Analysis Project](https://github.com/margarytaz/EDA-Project/)**
+  * An in-depth EDA project based on the IMDb movies dataset, using Python script and applying relevant libraries, developed in Google Colab environment.
+  * *Skills:* Python, Data Cleaning & Manipulation, Data Analysis & Visualization.
+
 * **[Cohort Analysis Project](https://github.com/margarytaz/Cohort_Analysis)**
   * A comperenhise analysis of sales data by cohorts, applying data cleaning, manipulation and visualization with SQL, Python and Tableau.
   * *Skills:* Python, SQL, Tableau, Data Analysis, Data Visualization.
