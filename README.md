@@ -1,46 +1,28 @@
 <div align="center">
   <h1>Hi, I'm Margaryta! 👋✨</h1>
-  <p>Passionate about data science and building analytical solutions for business.</p>
+  <b>Dedicated to translating complex data & building analytical solutions that drive business value</b>
 </div>
 
 
 ### 🚀 About Me
 
-I'm a data enthusiast with a diverse background, currently transitioning into the exciting world of Data Science through dedicated online learning. My academic background includes Business Management and Fashion studies.
-
-My professional experience in e-commerce and B2B environments has further solidified my conviction in the transformative power of data. I've seen firsthand how competent analytics drives business value, optimizes operations, and enhances decision-making.
+Leveraging a strong background in Business Management and E-commerce to drive data-informed decision-making. Currently focused on deepening expertise in Python & SQL programming for applied analytics.
 
 ### 🌟 Featured Projects
 
-Here are some of the recent projects:
+Here are some of my most recent projects:
 
-* **[Exploratory Data Analysis Project](https://github.com/margarytaz/EDA-Project/)**
-  * An in-depth EDA project based on the IMDb movies dataset, using Python script and applying relevant libraries, developed in Google Colab environment.
-  * *Skills:* Python, Data Cleaning & Manipulation, Data Analysis & Visualization.
-
-* **[Cohort Analysis Project](https://github.com/margarytaz/Cohort_Analysis)**
-  * A comperenhise analysis of sales data by cohorts, applying data cleaning, manipulation and visualization with SQL, Python and Tableau.
-  * *Skills:* Python, SQL, Tableau, Data Analysis, Data Visualization.
-
-* **[Power BI Dashboard Project](https://github.com/margarytaz/Power-BI)**
-  * A project presenting a coffee shop sales analysis and data visualization in Power BI Desktop.
-  * *Skills:* Power BI, Data Analysis, Data Visualization.
-
-* **[LinkedIn Post Analyzer](https://github.com/margarytaz/linkedin-post-analyser)**
-    * A Python-based tool leveraging the OpenAI API to analyze and improve LinkedIn post content, providing structured feedback and enhanced versions.
-    * *Skills:* Python, API Integration, Text Analysis, Data Structuring.
-
-* **[A/B Testing Statistical Analysis](https://github.com/margarytaz/ab-test)**
-    * A comprehensive project demonstrating various statistical A/B tests in Python, with both standalone scripts and interactive Google Colab notebooks.
-    * *Skills:* Python, Statistical Testing, Hypothesis Testing, Data Preparation.
-
-* **[SQL Projects](https://github.com/margarytaz/SQL-projects)**
-    * A collection of SQL mini-projects showcasing database schema design (DDL) and data extraction/cleaning techniques (DQL) for different analytical scenarios.
-    * *Skills:* SQL, Database Design, Data Cleaning, BigQuery.
+* **[Podcast Data Analysis (BigQuery SQL)](https://github.com/margarytaz/podcasts-analysis)**
+  * Analysis of podcasts database, using advanced SQL techniques for data cleaning, transformation, and complex dimensional aggregation.
+  * ***Tools:*** `SQL`, `BigQuery`
+  * ***Skills:*** `Data Cleaning & Aggregation`, `Data Analysis`
  
-I continue to improve my expertise in:
-* **Data Analysis & Visualization:** Extracting meaningful patterns and presenting them clearly.
-* **Statistical Analysis:** Applying statistical methods to test hypotheses and draw sound conclusions.
-* **Data Cleaning & Preparation:** Ensuring data quality and readiness for any analytical task.
-* **SQL & Database Management:** Designing schemas and performing data manipulation in BigQuery.
-* **Python Programming:** Developing functional scripts, applying popular libraries.
+* **[Coursera Courses Dataset EDA](https://github.com/margarytaz/coursera_analysis)**
+  * Comprehensive Exploratory Data Analysis (EDA) on a Coursera Courses dataset leveraging Python to provide essential insights into the offerings from top global universities and organizations on the platform.
+  * ***Python libraries:*** `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`
+  * ***Skills:*** `Data Cleaning`, `Exploratory Data Analysis`, `Data Visualization`
+
+* **[IMDb Top 1000 Movies (1920-2020) EDA](https://github.com/margarytaz/EDA-Project/)**
+  * The analysis of the IMDb movies dataset uncovers valuable trends and insights about the film industry, exploring key features: movies' gross revenue, runtimes & ratings, genre distribution, directors' and actors' influence on commercial success and ratings.
+  * ***Python libraries:*** `pandas`, `numpy`, `scipy`, `skikit_posthoc`, `matplotlib`, `seaborn`, `plotly` 
+  * ***Skills:*** `Python`, `Data Analysis`, `Data Visualization`.
