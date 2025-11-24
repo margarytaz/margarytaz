@@ -27,12 +27,12 @@ Here are some of my most recent projects:
   * ***Python libraries:*** `pandas`, `numpy`, `scipy`, `skikit_posthoc`, `matplotlib`, `seaborn`, `plotly` 
   * ***Skills:*** `Data Cleaning`, `Exploratory Data Analysis`, `Data Visualization`.
 
-
+---
 
 <div align="center">
   <b>
     <a href="https://github.com/margarytaz/margarytaz/raw/73b41f3870356c12918a261e5ac52b0bc7ac125f/M.Zubrii_Python_SQL.pdf" target="_blank">
-      PDF file with latest projects combined
+    💾 Click here to download a PDF file with latest Python & SQL projects combined
     </a>
   </b>
 </div>
